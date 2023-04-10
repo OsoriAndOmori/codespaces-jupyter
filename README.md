@@ -1,7 +1,8 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Osori GitHub Codespaces ♥️ Jupyter Notebooks
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+- 파이썬 교육용 자료 만들기
+    - 기본 문법 자료
+    - 웹 스크래핑 
+    - 데이터 통계 [데이터 소스](https://github.com/OsoriAndOmori/playground-data-repo)
+    - 웹어플리케이션 mongo 연동
+    - 라즈베리파이 센서 연동
